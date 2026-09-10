@@ -1,7 +1,7 @@
 # devtools/ — Full Content Dump
 
 > A curated, open-source directory of developer tools, books, courses, and resources.
-> Generated: 2026-09-09
+> Generated: 2026-09-10
 > Source: https://devtools.directory/
 
 ---
